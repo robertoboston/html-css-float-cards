@@ -7,7 +7,7 @@
 h1 {
     text-align: center;
     margin-top: 30px;
-    font-family: 'Rubik Mono One', sans-serif;
+    font-family: 'Fredoka One', cursive;
     color: #e53170;
 }
 
@@ -18,9 +18,10 @@ h1 {
 
 p{
     margin-top: 50px;
-    font-size: 20px;
+    font-size: 17px;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: 'Fredoka One', cursive;
+    
 }
 
 .row{
@@ -60,6 +61,8 @@ p{
 span{
     display: block;
     margin-top: 5px;
+    font-family: 'Fredoka One', cursive;
+
 }
 
 a{
@@ -68,8 +71,9 @@ a{
     
 }
 
-h2{
+h3{
     margin-top: 10px;
+    font-family: 'Fredoka One', cursive;
 }
 
 .row-2{
