@@ -39,11 +39,10 @@ p{
 .background-cards{
     background-color: #0f0e17;
     float: left;
-    width: calc(100% / 3 - 30px);
-    margin-right: 30px;
-    
-    
+    width: calc(100% / 3 - 40px);
+    margin: 0 20px;
 }
+
 
 .background-cards img{
     height: 100px;
