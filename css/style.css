@@ -4,12 +4,17 @@
     margin: 0;
 }
 
+body{
+    font-family: 'Fredoka One', cursive;
+}
+
+/* header  */
 h1 {
     text-align: center;
     margin-top: 30px;
-    font-family: 'Fredoka One', cursive;
     color: #e53170;
 }
+/* fine header */
 
 .container{
     width: 70%;
@@ -20,12 +25,16 @@ p{
     margin-top: 50px;
     font-size: 17px;
     text-align: center;
-    font-family: 'Fredoka One', cursive;
-    
+
 }
 
 .row{
     margin-top: 100px;
+
+}
+
+.second-row{
+    margin-top: 40px;
 }
 
 
@@ -35,6 +44,8 @@ p{
     clear: both;
 
 }
+
+
 
 .background-cards{
     background-color: #0f0e17;
@@ -54,14 +65,14 @@ p{
     float: left;
     color: white;
     margin-left: 10px;
+    margin-top: 15px;
 
 }
 
 span{
     display: block;
     margin-top: 5px;
-    font-family: 'Fredoka One', cursive;
-
+    
 }
 
 a{
@@ -70,10 +81,6 @@ a{
     
 }
 
-h3{
-    margin-top: 10px;
-    font-family: 'Fredoka One', cursive;
-}
 
 .row-2{
     margin-top: 50px;
