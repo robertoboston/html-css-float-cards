@@ -52,6 +52,7 @@ p{
     float: left;
     width: calc(100% / 3 - 40px);
     margin: 0 20px;
+    box-shadow: 5px 5px #e53170;
 }
 
 
@@ -60,6 +61,8 @@ p{
     float: left;
    
 }
+
+
 
 .personal-information{
     float: left;
